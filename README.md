@@ -1,6 +1,7 @@
 | <a href="https://github.com/tivp/PTD Launcher/blob/main/README_EN.md">English</a> | <a href="https://github.com/xcanwin/PTD Launcher/blob/main/README.md">Español</a> |
 | --- | --- |
 
+
 <div align="center">
     <img height="auto" width="80%" src="./assets/banner.png"><br><br>
     <a href="#-instalación"><img src="https://img.shields.io/github/downloads/tivp/PTD-Launcher/total?label=Descargas&labelColor=0c0d10&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49ImFyY3MiPgogIDxwYXRoIGQ9Ik0zIDE1djRjMCAxLjEuOSAyIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi00TTE3IDlsLTUgNS01LTVNMTIgMTIuOFYyLjUiPjwvcGF0aD4KPC9zdmc+Cg==" alt="alldownloads"></a>
@@ -28,10 +29,10 @@ Si este proyecto te ha sido útil y quieres apoyar su desarrollo continuo, tu ap
 
 | Plataforma | Enlace |
 | --- | --- |
-| **Buy Me a Coffee** | [<div align="center"><img src="./assets/buymeacoffee.png" width="178"></img></div>](https://buymeacoffee.com/tivp) |
-| **PayPal** | [<div align="center"><img src="./assets/paypal.svg" width="180"></img></div>](https://www.paypal.com/paypalme/tivp) |
-| **Ko-fi** | [<div align="center"><img src="./assets/ko-fi.png" width="137"></img></div>](https://ko-fi.com/tivp) |
-| **GitHub** | [<div align="center"><img src="./assets/github.png" width="190"></img></div>](https://github.com/sponsors/tivp) |
+| **Buy Me a Coffee** | [<div align="center"><img src="./assets/buymeacoffee.png" width="168"></img></div>](https://buymeacoffee.com/tivp) |
+| **PayPal** | [<div align="center"><img src="./assets/paypal.svg" width="170"></img></div>](https://www.paypal.com/paypalme/tivp) |
+| **Ko-fi** | [<div align="center"><img src="./assets/ko-fi.png" width="127"></img></div>](https://ko-fi.com/tivp) |
+| **GitHub** | [<div align="center"><img src="./assets/github.png" width="180"></img></div>](https://github.com/sponsors/tivp) |
 
 ### ¡ Muchisimas Gracias Por tu Aporte !
 
