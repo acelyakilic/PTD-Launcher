@@ -22,7 +22,7 @@ Con esta herramienta, podrás jugar dos títulos al mismo tiempo, permitiéndote
 ## Comparación de proyectores flash
 | Usando `Chrome` | Usando `PTD Launcher` |
 | --- | --- |
-| <div align="center"><img src="/assets/chrome.gif" width="300"></img></div> | <div align="center"><img src="./assets/flash.gif" width="300"></img></div> |
+| <div align="center"><img src="/assets/chrome.gif" width="300"></img></div> | <div align="center"><img src="./assets/ptd_launcher.gif" width="300"></img></div> |
 
 ## ❤️ Patrocinar
 Si este proyecto te ha sido útil y quieres apoyar su desarrollo continuo, tu apoyo es bienvenido.
