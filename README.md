@@ -4,7 +4,8 @@
 <div align="center">
     <img height="auto" width="80%" src="./assets/banner.png"><br><br>
     <a href="#-instalación"><img src="https://img.shields.io/github/downloads/tivp/PTD-Launcher/total?label=Descargas&labelColor=0c0d10&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49ImFyY3MiPgogIDxwYXRoIGQ9Ik0zIDE1djRjMCAxLjEuOSAyIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi00TTE3IDlsLTUgNS01LTVNMTIgMTIuOFYyLjUiPjwvcGF0aD4KPC9zdmc+Cg==" alt="alldownloads"></a>
-    <a href="#%EF%B8%8F-licencia"><img src="https://img.shields.io/github/license/tivp/PTD-Launcher?label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==&style=for-the-badge" alt="license"></a><br><br>
+    <a href="#%EF%B8%8F-licencia"><img src="https://img.shields.io/github/license/tivp/PTD-Launcher?label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==&style=for-the-badge" alt="license"></a>
+    <img alt="python" src="https://img.shields.io/badge/Python-%3E%3D3.11-3?style=for-the-badge&label=Python&logo=Python&labelColor=0c0d10&logoColor=00AEF0&color=blue"></img><br><br>
 </div>
 
 PTD Launcher nació como respuesta a las limitaciones y el bajo rendimiento de la emulación en navegadores.
@@ -20,17 +21,17 @@ Con esta herramienta, podrás jugar dos títulos al mismo tiempo, permitiéndote
 ## Comparación de proyectores flash
 | Usando `Chrome` | Usando `PTD Launcher` |
 | --- | --- |
-| <div align="center"><img src="/assets/chrome.gif" width="500"></img></div> | <div align="center"><img src="./assets/flash.gif" width="500"></img></div> |
+| <div align="center"><img src="/assets/chrome.gif" width="300"></img></div> | <div align="center"><img src="./assets/flash.gif" width="300"></img></div> |
 
 ## ❤️ Patrocinar
 Si este proyecto te ha sido útil y quieres apoyar su desarrollo continuo, tu apoyo es bienvenido.
 
 | Plataforma | Enlace |
 | --- | --- |
-| **Buy Me a Coffee** | [<div align="center"><img src="./assets/buymeacoffee.png" width="188"></img></div>](https://buymeacoffee.com/tivp) |
-| **PayPal** | [<div align="center"><img src="./assets/paypal.svg" width="190"></img></div>](https://www.paypal.com/paypalme/tivp) |
-| **Ko-fi** | [<div align="center"><img src="./assets/ko-fi.png" width="147"></img></div>](https://ko-fi.com/tivp) |
-| **GitHub** | [<div align="center"><img src="./assets/github.png" width="200"></img></div>](https://github.com/sponsors/tivp) |
+| **Buy Me a Coffee** | [<div align="center"><img src="./assets/buymeacoffee.png" width="178"></img></div>](https://buymeacoffee.com/tivp) |
+| **PayPal** | [<div align="center"><img src="./assets/paypal.svg" width="180"></img></div>](https://www.paypal.com/paypalme/tivp) |
+| **Ko-fi** | [<div align="center"><img src="./assets/ko-fi.png" width="137"></img></div>](https://ko-fi.com/tivp) |
+| **GitHub** | [<div align="center"><img src="./assets/github.png" width="190"></img></div>](https://github.com/sponsors/tivp) |
 
 ### ¡ Muchisimas Gracias Por tu Aporte !
 
