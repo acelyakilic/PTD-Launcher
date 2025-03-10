@@ -29,10 +29,10 @@ Si este proyecto te ha sido útil y quieres apoyar su desarrollo continuo, tu ap
 
 | Plataforma | Enlace |
 | --- | --- |
-| **Buy Me a Coffee** | [<div align="center"><img src="./assets/buymeacoffee.png" width="168"></img></div>](https://buymeacoffee.com/tivp) |
-| **PayPal** | [<div align="center"><img src="./assets/paypal.svg" width="170"></img></div>](https://www.paypal.com/paypalme/tivp) |
-| **Ko-fi** | [<div align="center"><img src="./assets/ko-fi.png" width="127"></img></div>](https://ko-fi.com/tivp) |
-| **GitHub** | [<div align="center"><img src="./assets/github.png" width="180"></img></div>](https://github.com/sponsors/tivp) |
+| Buy Me a Coffee | [<div align="center"><img src="./assets/buymeacoffee.png" width="168"></img></div>](https://buymeacoffee.com/tivp) |
+| PayPal | [<div align="center"><img src="./assets/paypal.svg" width="170"></img></div>](https://www.paypal.com/paypalme/tivp) |
+| Ko-fi | [<div align="center"><img src="./assets/ko-fi.png" width="127"></img></div>](https://ko-fi.com/tivp) |
+| GitHub | [<div align="center"><img src="./assets/github.png" width="180"></img></div>](https://github.com/sponsors/tivp) |
 
 ### 𝑴𝒖𝒄𝒉𝒊𝒔𝒊𝒎𝒂𝒔 𝑮𝒓𝒂𝒄𝒊𝒂𝒔 𝑷𝒐𝒓 𝒕𝒖 𝑨𝒑𝒐𝒓𝒕𝒆 ❤️
 
