@@ -1,0 +1,3 @@
+pip install pillow pygame pygetwindow
+
+pyinstaller --onefile --windowed --icon=assets/1.ico --add-data "assets/1.ico;assets" --add-data "assets/2.ico;assets" --add-data "assets/top.png;assets" --add-data "assets/Closetab.mp3;assets" --add-data "assets/flashplayer11_5r502_146_win_sa_debug.exe;assets" --add-data "assets/mewtab.mp3;assets" --add-data "assets/off.mp3;assets" --add-data "assets/on.mp3;assets" --add-data "assets/PTD1_Hacked-v2.9.4.swf;assets" --add-data "assets/PTD1RF-v2.9.4.swf;assets" --add-data "assets/PTD1-v2.9.4.swf;assets" --add-data "assets/PTD2_Hacked-v3.5.4.swf;assets" --add-data "assets/PTD2-v3.5.4.swf;assets" --add-data "assets/PTD3_Hacked-v1.2.1.swf;assets" --add-data "assets/PTD3-v1.2.1.swf;assets" "PTD Launcher.py"
