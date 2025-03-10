@@ -3,10 +3,10 @@
 
 
 <div align="center">
-    <img height="auto" width="80%" src="./assets/banner.png"><br><br>
-    <a href="#-instalación"><img src="https://img.shields.io/github/downloads/tivp/PTD-Launcher/total?label=Descargas&labelColor=0c0d10&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49ImFyY3MiPgogIDxwYXRoIGQ9Ik0zIDE1djRjMCAxLjEuOSAyIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi00TTE3IDlsLTUgNS01LTVNMTIgMTIuOFYyLjUiPjwvcGF0aD4KPC9zdmc+Cg==" alt="alldownloads"></a>
-    <a href="#%EF%B8%8F-licencia"><img src="https://img.shields.io/github/license/tivp/PTD-Launcher?label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==&style=for-the-badge" alt="license"></a>
-    <img alt="python" src="https://img.shields.io/badge/Python-%3E%3D3.11-3?style=for-the-badge&label=Python&logo=Python&labelColor=0c0d10&logoColor=00AEF0&color=blue"></img><br><br>
+    <img height="auto" width="80%" src="./assets/banner.png"></img><br><br>
+    <a href="#-descargar"><img src="https://img.shields.io/github/downloads/tivp/PTD-Launcher/total?label=Descargas&labelColor=0c0d10&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMSIgaGVpZ2h0PSIyMSIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49ImFyY3MiPgogIDxwYXRoIGQ9Ik0zIDE1djRjMCAxLjEuOSAyIDIgMmgxNGEyIDIgMCAwIDAgMi0ydi00TTE3IDlsLTUgNS01LTVNMTIgMTIuOFYyLjUiPjwvcGF0aD4KPC9zdmc+Cg==" alt="alldownloads"></img></a>
+    <a href="#%EF%B8%8F-licencia"><img src="https://img.shields.io/github/license/tivp/PTD-Launcher?label=Licencia&labelColor=0c0d10&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAyNCAyNCIgc3Ryb2tlPSIjRkZGIj48cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0ibTMgNiAzIDFtMCAwLTMgOWE1LjAwMiA1LjAwMiAwIDAgMCA2LjAwMSAwTTYgN2wzIDlNNiA3bDYtMm02IDIgMy0xbS0zIDEtMyA5YTUuMDAyIDUuMDAyIDAgMCAwIDYuMDAxIDBNMTggN2wzIDltLTMtOS02LTJtMC0ydjJtMCAxNlY1bTAgMTZIOW0zIDBoMyIvPjwvc3ZnPg==&style=for-the-badge" alt="license"></img></a>
+    <a href="#-descargar"><img alt="python" src="https://img.shields.io/badge/Python-%3E%3D3.11-3?style=for-the-badge&label=Python&logo=Python&labelColor=0c0d10&logoColor=00AEF0&color=blue"></img></a><br><br>
 </div>
 
 PTD Launcher nació como respuesta a las limitaciones y el bajo rendimiento de la emulación en navegadores.
@@ -58,4 +58,4 @@ Seleccione `Cerrar` luego de asegurarse
 ## ⚖️ Licencia
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-PTD Launcher es software libre: puedes usarlo, estudiarlo, compartirlo y mejorarlo a tu gusto. En particular, puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General GNU 3.0. Consulta la licencia [aquí](LICENSE.md) para más detalles.
+PTD Launcher es software libre: puedes usarlo, estudiarlo, compartirlo y mejorarlo a tu gusto. En particular, puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General GNU 3.0. Consulta la licencia [aquí](./LICENSE) para más detalles.
