@@ -24,7 +24,7 @@ Con esta herramienta, podrás jugar dos títulos al mismo tiempo, permitiéndote
 | --- | --- |
 | <div align="center"><img src="/assets/chrome.gif" width="330"></img></div> | <div align="center"><img src="./assets/ptd_launcher.gif" width="330"></img></div> |
 
-## ❤️ Patrocinar
+## Patrocinar
 Si este proyecto te ha sido útil y quieres apoyar su desarrollo continuo, tu apoyo es bienvenido.
 
 | Plataforma | Enlace |
@@ -34,7 +34,7 @@ Si este proyecto te ha sido útil y quieres apoyar su desarrollo continuo, tu ap
 | **Ko-fi** | [<div align="center"><img src="./assets/ko-fi.png" width="127"></img></div>](https://ko-fi.com/tivp) |
 | **GitHub** | [<div align="center"><img src="./assets/github.png" width="180"></img></div>](https://github.com/sponsors/tivp) |
 
-### ¡ Muchisimas Gracias Por tu Aporte !
+### 𝑴𝒖𝒄𝒉𝒊𝒔𝒊𝒎𝒂𝒔 𝑮𝒓𝒂𝒄𝒊𝒂𝒔 𝑷𝒐𝒓 𝒕𝒖 𝑨𝒑𝒐𝒓𝒕𝒆 ❤️
 
 ## 📥 Descargar
 Descarga aquí ⬇️ abajo o diríjete [aquí](https://github.com/tivp/PTD-Launcher/releases) para ver todas las versiones.
