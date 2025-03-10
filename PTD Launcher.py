@@ -14,9 +14,9 @@ import webbrowser
 def get_resource_path(filename):
     if hasattr(sys, '_MEIPASS'):
         # Si se está ejecutando desde un archivo compilado por PyInstaller
-        return os.path.join(sys._MEIPASS, "assets", filename)
+        return os.path.join(sys._MEIPASS, "resources", filename)
     # Si se ejecuta desde el código fuente
-    return os.path.join("assets", filename)
+    return os.path.join("resources", filename)
 
 def reproducir_sonido(archivo):
     pygame.mixer.music.load(get_resource_path(archivo))
