@@ -43,14 +43,14 @@ Descarga aquí ⬇️ abajo o diríjete [aquí](https://github.com/tivp/PTD-Laun
 
 <a href="https://github.com/tivp/PTD-Launcher/releases/latest"><img src="https://img.shields.io/badge/Android%20%28Proximamente%29-0?&labelColor=0c0d10&color=97c03d&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSIgc3Ryb2tlPSJ3aGl0ZSI+CiAgPHRpdGxlPkFuZHJvaWQ8L3RpdGxlPgogIDxwYXRoIGQ9Ik0xOC40Mzk1IDUuNTU4NmMtLjY3NSAxLjE2NjQtMS4zNTIgMi4zMzE4LTIuMDI3NCAzLjQ5OC0uMDM2Ni0uMDE1NS0uMDc0Mi0uMDI4Ni0uMTExMy0uMDQzLTEuODI0OS0uNjk1Ny0zLjQ4NC0uOC00LjQyLS43ODctMS44NTUxLjAxODUtMy4zNTQ0LjQ2NDMtNC4yNTk3LjgyMDMtLjA4NC0uMTQ5NC0xLjc1MjYtMy4wMjEtMi4wMjE1LTMuNDg2NGExLjE0NTEgMS4xNDUxIDAgMCAwLS4xNDA2LS4xOTE0Yy0uMzMxMi0uMzY0LS45MDU0LS40ODU5LTEuMzc5LS4yMDMtLjQ3NS4yODItLjcxMzYuOTM2MS0uMzg4NiAxLjUwMTkgMS45NDY2IDMuMzY5Ni0uMDk2Ni0uMjE1OCAxLjk0NzMgMy4zNTkzLjAxNzIuMDMxLS40OTQ2LjI2NDItMS4zOTI2IDEuMDE3N0MyLjg5ODcgMTIuMTc2LjQ1MiAxNC43NzIgMCAxOC45OTAyaDI0Yy0uMTE5LTEuMTEwOC0uMzY4Ni0yLjA5OS0uNzQ2MS0zLjA2ODMtLjc0MzgtMS45MTE4LTEuODQzNS0zLjI5MjgtMi43NDAyLTQuMTgzNmExMi4xMDQ4IDEyLjEwNDggMCAwIDAtMi4xMzA5LTEuNjg3NWMuNjU5NC0xLjEyMiAxLjMxMi0yLjI1NTkgMS45NjQ5LTMuMzg0OC4yMDc3LS4zNjE1LjE4ODYtLjc5NTYtLjAwNzktMS4xMTkxYTEuMTAwMSAxLjEwMDEgMCAwIDAtLjg1MTUtLjUzMzJjLS41MjI1LS4wNTM2LS45MzkyLjMxMjgtMS4wNDg4LjU0NDl6bS0uMDM5MSA4LjQ2MWMuMzk0NC41OTI2LjMyNCAxLjMzMDYtLjE1NjMgMS42NTAzLS40Nzk5LjMxOTctMS4xODguMDk4NS0xLjU4Mi0uNDk0MS0uMzk0NC0uNTkyNy0uMzI0LTEuMzMwNy4xNTYzLTEuNjUwNC40NzI3LS4zMTUgMS4xODEyLS4xMDg2IDEuNTgyLjQ5NDF6TTcuMjA3IDEzLjUyNzNjLjQ4MDMuMzE5Ny41NTA2IDEuMDU3Ny4xNTYzIDEuNjUwNC0uMzk0LjU5MjYtMS4xMDM4LjgxMzgtMS41ODQuNDk0MS0uNDgtLjMxOTctLjU1MDMtMS4wNTc3LS4xNTYzLTEuNjUwNC40MDA4LS42MDIxIDEuMTA4Ny0uODEwNiAxLjU4NC0uNDk0MXoiLz4KPC9zdmc+Cg==" alt="android"></a>
 
-## Instrucciones
-### 🔎 Comó aumentar el rendimiento del proyector de flash
+## Tutoriales
+### 🔎 Comó aumentar el rendimiento del proyector de adobe flash
 | 1. Haga click ➡️ derecho sobre su juego favorito |
 | --- |
 | <div align="center"><img src="/assets/tutorial_1.png" width="370"></img></div> |
 Seleccione `Configuración...`
 
-| 2. Desmarque `Activar aceleración por hardware` |
+| 2. Desmarque `Activar aceleración de hardware` |
 | --- |
 | <div align="center"><img src="/assets/tutorial_2.png" width="370"></img></div> |
 Seleccione `Cerrar` luego de asegurarse
