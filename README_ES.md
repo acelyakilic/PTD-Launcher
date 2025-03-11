@@ -1,4 +1,4 @@
-| <a href="https://github.com/tivp/PTD Launcher/blob/main/README_EN.md">English</a> | <a href="https://github.com/tivp/PTD Launcher/blob/main/README.md">Español</a> |
+| <a href="https://github.com/tivp/PTD Launcher/blob/main/README.md">English</a> | <a href="https://github.com/tivp/PTD Launcher/blob/main/README_ES.md">Español</a> |
 | --- | --- |
 
 
